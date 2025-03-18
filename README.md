@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jacob Wieler. I'm a Software Engineer currently pursuing my Master of Science in Computer Science at the University of Texas at Austin part time while I work as a Technical Lead for an AI startup called Prompt Core. I am passionate about learning, AI, video games, music, and nature.
 
 <!--
 **jwieler/jwieler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
